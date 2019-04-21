@@ -1,0 +1,28 @@
+.molorosh-control-title {
+	font-weight: bold;
+	color: navy;
+}
+
+.molorosh-button {
+	color: white;
+}
+
+.molorosh-button-edit {
+	background-color: salmon;
+}
+
+.molorosh-button-update {
+	background-color: green;
+}
+
+.molorosh-button-cancel {
+	background-color: blue;
+}
+
+.molorosh-button-delete {
+	background-color: red;
+}
+
+.molorosh-datetime-t-spacer {
+	color: red;
+}
